@@ -9,9 +9,12 @@
 
 // 3. Base styles
 @import 'base/base';
+@import 'base/type';
 // 4. Layout
 @import 'layout/grid';
 @import 'layout/header';
 @import 'layout/hero';
+@import 'layout/nav';
 
 // 5. Components
+@import 'components/buttons' ;
