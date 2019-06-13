@@ -1,3 +1,7 @@
 .grid{
   display: flex ;
 }
+
+.col{
+  flex: 0 0 100%;
+}
